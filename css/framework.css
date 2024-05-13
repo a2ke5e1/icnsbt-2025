@@ -28,6 +28,7 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .bgded{background-position:top center; background-repeat:no-repeat; background-size:cover;}
 .circle{border-radius:50%; background-clip:padding-box;}
 
+.btn{display:inline-block; padding:8px 18px 10px; text-transform:uppercase; border:1px solid;}
 
 .logoname{display:inline-block; min-width:170px; font-size:32px; font-variant:small-caps; font-weight:700;}
 .logoname i, .logoname span{position:relative; float:left;}
